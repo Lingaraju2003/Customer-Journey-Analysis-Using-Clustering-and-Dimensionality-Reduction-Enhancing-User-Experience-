@@ -1,0 +1,2 @@
+# Customer-Journey-Analysis-Using-Clustering-and-Dimensionality-Reduction-Enhancing-User-Experience-
+The goal is to divide customers into distinct segments using unsupervised learning, which  can then be targeted with tailored marketing strategies, personalized recommendations, or  improved customer service. The project aims to provide businesses with a deep  understanding of customer groups, leading to more informed decision-making.
